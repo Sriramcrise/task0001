@@ -5,11 +5,7 @@ body {
     margin-left:65%;
     padding:0;
     width: 500px;
-
-
-  /* background-image: linear-gradient(to right,#943d24,white, #f0a3bc); */
-  /* border-style: groove; */
-  background-color: #18b8aa;
+  background-color: #a3c0be;
   border-radius: 20px;
  position: fixed; 
  box-shadow: 10px 15px 12px  rgb(0, 0, 13);
